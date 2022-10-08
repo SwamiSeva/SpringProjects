@@ -9,7 +9,10 @@ pageEncoding="UTF-8"%>
 <body>
 <h2>Welcome Back:${name}</h2>
 <br>
-Result is:${alien}
+Alien Added :${addalien}
+
+<br>
+Record Removed:${rmalien}
 </body>
 </html>
 

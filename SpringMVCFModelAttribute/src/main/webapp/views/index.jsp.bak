@@ -11,7 +11,7 @@ Welcome to SpringMVC
 
 <form action="addalien" method="post">
 <h3>Enter the Alien Id:<input type="text" name="aid"</h3>
-<h3>Enter the Alien Name</h3>:<input type="text" name="aname">
+<h3>Enter the Alien Name</h3>:<input type="text" name="aname"
                           <input type="submit">
 </form>
 <br>

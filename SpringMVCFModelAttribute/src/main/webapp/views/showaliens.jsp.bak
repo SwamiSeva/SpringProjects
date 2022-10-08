@@ -10,7 +10,5 @@ pageEncoding="UTF-8"%>
 Result is:${getalience}
 <br>
 Removed Alien Record:${rmalien}
-<br>
-Show All Aliens Feteched by name from Database:${getAlienByName}
 </body>
 </html>

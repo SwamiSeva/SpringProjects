@@ -7,10 +7,12 @@ pageEncoding="UTF-8"%>
 <title>Example of JSP file</title>
 </head>
 <body>
-Result is:${getalience}
+<h2>Welcome Back:${name}</h2>
 <br>
-Removed Alien Record:${rmalien}
+Result is:${addalien}
+
 <br>
-Show All Aliens Feteched by name from Database:${getAlienByName}
+Record Removed:${rmalien}
 </body>
 </html>
+
